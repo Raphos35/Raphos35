@@ -1,4 +1,4 @@
-### Olá, eu sou o Raphael Oliveira dos Santos
+### Olá, eu sou o Raphael 
 
 - 🌱 Estou estudando Tecnologia em Análise e Desenvolvimento de Sistemas e Curso de Java "Master Developer" da SoftBlue
 - - 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade ✨✨✨✨✨✨✨
